@@ -2,6 +2,7 @@
 
 The dashboards config files and setup instructions are provided here:
 
+* [DC/OS 1.13](dcos-1.13/)
 * [DC/OS 1.12](dcos-1.12/)
 * [DC/OS 1.11](dcos-1.11/)
 
